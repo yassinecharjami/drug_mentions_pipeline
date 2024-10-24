@@ -1,0 +1,10 @@
+version: '3'
+
+services:
+  pipeline:
+    build: .
+    volumes:
+      - .:/drug_mentions_pipeline
+    command: >
+      bash -c "python -m unittest discover tests && python -m data_pipeline.pipeline"
+    tty: true

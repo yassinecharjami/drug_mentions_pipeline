@@ -1,0 +1,99 @@
+{
+    "DIPHENHYDRAMINE": [
+        {
+            "journal": "Journal of emergency nursing",
+            "date": "2019-01-01",
+            "source": "pubMed"
+        },
+        {
+            "journal": "Journal of emergency nursing",
+            "date": "2019-01-01",
+            "source": "pubMed"
+        },
+        {
+            "journal": "The Journal of pediatrics",
+            "date": "2019-02-01",
+            "source": "pubMed"
+        },
+        {
+            "journal": "Journal of emergency nursing",
+            "date": "2020-01-01",
+            "source": "clinicalTrials"
+        },
+        {
+            "journal": "Journal of emergency nursing",
+            "date": "2020-01-01",
+            "source": "clinicalTrials"
+        },
+        {
+            "journal": "Journal of emergency nursing",
+            "date": "2020-01-01",
+            "source": "clinicalTrials"
+        }
+    ],
+    "TETRACYCLINE": [
+        {
+            "journal": "Journal of food protection",
+            "date": "2020-01-01",
+            "source": "pubMed"
+        },
+        {
+            "journal": "American journal of veterinary research",
+            "date": "2020-02-01",
+            "source": "pubMed"
+        },
+        {
+            "journal": "Psychopharmacology",
+            "date": "2020-01-01",
+            "source": "pubMed"
+        }
+    ],
+    "ETHANOL": [
+        {
+            "journal": "Psychopharmacology",
+            "date": "2020-01-01",
+            "source": "pubMed"
+        }
+    ],
+    "EPINEPHRINE": [
+        {
+            "journal": "The journal of allergy and clinical immunology. In practice",
+            "date": "2020-01-02",
+            "source": "pubMed"
+        },
+        {
+            "journal": "The journal of allergy and clinical immunology. In practice",
+            "date": "2020-01-03",
+            "source": "pubMed"
+        },
+        {
+            "journal": "Journal of emergency nursing",
+            "date": "2020-04-27",
+            "source": "clinicalTrials"
+        }
+    ],
+    "ISOPRENALINE": [
+        {
+            "journal": "Journal of photochemistry and photobiology. B, Biology",
+            "date": "2020-01-01",
+            "source": "pubMed"
+        }
+    ],
+    "BETAMETHASONE": [
+        {
+            "journal": "The journal of maternal-fetal & neonatal medicine",
+            "date": "2020-01-01",
+            "source": "pubMed"
+        },
+        {
+            "journal": "Journal of back and musculoskeletal rehabilitation",
+            "date": "2020-01-01",
+            "source": "pubMed"
+        },
+        {
+            "journal": "Hôpitaux Universitaires de Genève",
+            "date": "2020-01-01",
+            "source": "clinicalTrials"
+        }
+    ]
+}
